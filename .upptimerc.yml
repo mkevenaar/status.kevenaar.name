@@ -8,7 +8,7 @@ sites:
   - name: FarmPi Documentation
     url: https://farmpi.kevenaar.name
   - name: FarmPi Mirror
-    url: https://farmpi.ocotofarm.net
+    url: https://farmpi.octofarm.net/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
