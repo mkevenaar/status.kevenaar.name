@@ -40,7 +40,7 @@
     "url": "https://farmpi.octofarm.net/",
     "icon": "https://favicons.githubusercontent.com/farmpi.octofarm.net",
     "slug": "farm-pi-mirror",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -52,6 +52,7 @@
     "timeMonth": 756,
     "timeYear": 864,
     "dailyMinutesDown": {
+      "2021-09-24": 0,
       "2021-09-01": 15
     }
   }
