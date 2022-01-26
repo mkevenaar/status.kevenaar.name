@@ -4,18 +4,20 @@
     "url": "https://kevenaar.name",
     "icon": "https://favicons.githubusercontent.com/kevenaar.name",
     "slug": "maurice-kevenaar-s-techblog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 933,
-    "timeDay": 1024,
+    "timeDay": 1298,
     "timeWeek": 1028,
     "timeMonth": 905,
     "timeYear": 933,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-01-26": 0
+    }
   },
   {
     "name": "FarmPi Documentation",
