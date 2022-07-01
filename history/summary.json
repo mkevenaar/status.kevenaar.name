@@ -4,9 +4,9 @@
     "url": "https://kevenaar.name",
     "icon": "https://favicons.githubusercontent.com/kevenaar.name",
     "slug": "maurice-kevenaar-s-techblog",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 1000,
     "timeMonth": 984,
     "timeYear": 907,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-01": 0
+    }
   },
   {
     "name": "FarmPi Documentation",
@@ -41,11 +43,11 @@
     "icon": "https://favicons.githubusercontent.com/farmpi.octofarm.net",
     "slug": "farm-pi-mirror",
     "status": "up",
-    "uptime": "97.31%",
+    "uptime": "97.32%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.31%",
+    "uptimeYear": "97.32%",
     "time": 791,
     "timeDay": 910,
     "timeWeek": 816,
