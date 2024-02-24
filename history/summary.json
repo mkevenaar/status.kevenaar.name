@@ -46,7 +46,7 @@
     "slug": "farm-pi-mirror",
     "status": "down",
     "uptime": "72.57%",
-    "uptimeDay": "67.85%",
+    "uptimeDay": "67.62%",
     "uptimeWeek": "38.84%",
     "uptimeMonth": "7.03%",
     "uptimeYear": "32.72%",
@@ -56,7 +56,7 @@
     "timeMonth": 375,
     "timeYear": 651,
     "dailyMinutesDown": {
-      "2024-02-24": 0,
+      "2024-02-24": 4,
       "2024-02-23": 462,
       "2024-02-22": 603,
       "2024-02-21": 505,
