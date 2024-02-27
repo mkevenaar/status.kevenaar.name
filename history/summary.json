@@ -44,15 +44,15 @@
     "url": "https://farmpi.octofarm.net/",
     "icon": "https://icons.duckduckgo.com/ip3/farmpi.octofarm.net.ico",
     "slug": "farm-pi-mirror",
-    "status": "up",
+    "status": "down",
     "uptime": "99.79%",
-    "uptimeDay": "59.69%",
-    "uptimeWeek": "71.44%",
-    "uptimeMonth": "93.43%",
-    "uptimeYear": "99.45%",
+    "uptimeDay": "61.73%",
+    "uptimeWeek": "71.62%",
+    "uptimeMonth": "93.47%",
+    "uptimeYear": "99.46%",
     "time": 748,
-    "timeDay": 237,
-    "timeWeek": 392,
+    "timeDay": 241,
+    "timeWeek": 394,
     "timeMonth": 370,
     "timeYear": 557,
     "dailyMinutesDown": {
@@ -61,7 +61,7 @@
       "2024-02-25": 636,
       "2024-02-24": 585,
       "2024-02-23": 462,
-      "2024-02-22": 267
+      "2024-02-22": 249
     }
   }
 ]
