@@ -45,24 +45,24 @@
     "slug": "farm-pi-mirror",
     "status": "up",
     "uptime": "99.67%",
-    "uptimeDay": "99.64%",
-    "uptimeWeek": "99.51%",
-    "uptimeMonth": "89.76%",
-    "uptimeYear": "99.15%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.56%",
+    "uptimeMonth": "89.59%",
+    "uptimeYear": "99.13%",
     "time": 522,
     "timeDay": 401,
     "timeWeek": 243,
     "timeMonth": 325,
     "timeYear": 430,
     "dailyMinutesDown": {
-      "2024-03-17": 5,
       "2024-03-12": 44,
       "2024-03-06": 13,
       "2024-03-05": 1148,
       "2024-03-04": 918,
       "2024-03-03": 687,
       "2024-03-02": 861,
-      "2024-03-01": 811
+      "2024-03-01": 817,
+      "2024-02-29": 74
     }
   }
 ]
