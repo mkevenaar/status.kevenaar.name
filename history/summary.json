@@ -4,9 +4,9 @@
     "url": "https://kevenaar.name",
     "icon": "https://icons.duckduckgo.com/ip3/kevenaar.name.ico",
     "slug": "maurice-kevenaar-s-techblog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 906,
     "timeMonth": 945,
     "timeYear": 965,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-31": 0
+    }
   },
   {
     "name": "FarmPi Documentation",
@@ -42,9 +44,9 @@
     "slug": "farm-pi-mirror",
     "status": "up",
     "uptime": "97.67%",
-    "uptimeDay": "99.40%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "93.44%",
     "time": 534,
     "timeDay": 869,
@@ -52,7 +54,6 @@
     "timeMonth": 909,
     "timeYear": 409,
     "dailyMinutesDown": {
-      "2024-05-31": 9,
       "2024-04-28": 19,
       "2024-04-27": 3,
       "2024-04-19": 593,
@@ -84,7 +85,7 @@
       "2024-03-04": 918,
       "2024-03-03": 687,
       "2024-03-02": 861,
-      "2024-03-01": 740
+      "2024-03-01": 766
     }
   }
 ]
