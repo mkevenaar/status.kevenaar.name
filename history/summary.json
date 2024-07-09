@@ -11,9 +11,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 955,
-    "timeDay": 1257,
-    "timeWeek": 739,
-    "timeMonth": 906,
+    "timeDay": 794,
+    "timeWeek": 757,
+    "timeMonth": 891,
     "timeYear": 963,
     "dailyMinutesDown": {
       "2024-07-03": 17,
@@ -32,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 368,
-    "timeDay": 508,
-    "timeWeek": 313,
-    "timeMonth": 362,
+    "timeDay": 391,
+    "timeWeek": 315,
+    "timeMonth": 363,
     "timeYear": 351,
     "dailyMinutesDown": {}
   },
@@ -44,18 +44,17 @@
     "icon": "https://icons.duckduckgo.com/ip3/farmpi.octofarm.net.ico",
     "slug": "farm-pi-mirror",
     "status": "up",
-    "uptime": "97.75%",
-    "uptimeDay": "99.59%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptime": "97.76%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "93.44%",
     "time": 569,
-    "timeDay": 801,
-    "timeWeek": 770,
-    "timeMonth": 923,
-    "timeYear": 458,
+    "timeDay": 438,
+    "timeWeek": 649,
+    "timeMonth": 918,
+    "timeYear": 457,
     "dailyMinutesDown": {
-      "2024-07-08": 6,
       "2024-04-28": 19,
       "2024-04-27": 3,
       "2024-04-19": 593,
@@ -87,7 +86,7 @@
       "2024-03-04": 918,
       "2024-03-03": 687,
       "2024-03-02": 861,
-      "2024-03-01": 740
+      "2024-03-01": 766
     }
   }
 ]
