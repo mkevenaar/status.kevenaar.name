@@ -10,10 +10,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 936,
-    "timeDay": 1103,
-    "timeWeek": 834,
-    "timeMonth": 856,
+    "time": 935,
+    "timeDay": 752,
+    "timeWeek": 839,
+    "timeMonth": 859,
     "timeYear": 922,
     "dailyMinutesDown": {
       "2024-07-03": 17,
@@ -32,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 352,
-    "timeDay": 574,
-    "timeWeek": 363,
-    "timeMonth": 347,
+    "timeDay": 369,
+    "timeWeek": 372,
+    "timeMonth": 351,
     "timeYear": 342,
     "dailyMinutesDown": {}
   },
@@ -45,17 +45,16 @@
     "slug": "farm-pi-mirror",
     "status": "up",
     "uptime": "98.02%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "99.56%",
-    "uptimeMonth": "99.81%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.84%",
     "uptimeYear": "93.46%",
     "time": 648,
-    "timeDay": 1303,
-    "timeWeek": 799,
-    "timeMonth": 808,
+    "timeDay": 549,
+    "timeWeek": 812,
+    "timeMonth": 807,
     "timeYear": 646,
     "dailyMinutesDown": {
-      "2024-11-24": 10,
       "2024-11-22": 16,
       "2024-11-18": 18,
       "2024-11-14": 18,
@@ -92,7 +91,7 @@
       "2024-03-04": 918,
       "2024-03-03": 687,
       "2024-03-02": 861,
-      "2024-03-01": 574
+      "2024-03-01": 593
     }
   }
 ]
