@@ -1,7 +1,7 @@
 url: https://farmpi.octofarm.net/
-status: up
-code: 200
-responseTime: 1159
-lastUpdated: 2024-12-05T05:44:15.417Z
+status: down
+code: 429
+responseTime: 399
+lastUpdated: 2024-12-05T09:41:42.938Z
 startTime: 2021-08-07T13:02:49.000Z
 generator: Upptime <https://github.com/upptime/upptime>
