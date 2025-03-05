@@ -6,17 +6,16 @@
     "slug": "maurice-kevenaar-s-techblog",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "99.61%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 916,
-    "timeDay": 775,
-    "timeWeek": 837,
-    "timeMonth": 912,
+    "timeDay": 858,
+    "timeWeek": 856,
+    "timeMonth": 915,
     "timeYear": 885,
     "dailyMinutesDown": {
-      "2025-03-04": 6,
       "2024-07-03": 17,
       "2024-05-31": 35
     }
