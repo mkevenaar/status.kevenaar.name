@@ -6,17 +6,16 @@
     "slug": "maurice-kevenaar-s-techblog",
     "status": "up",
     "uptime": "99.69%",
-    "uptimeDay": "92.69%",
-    "uptimeWeek": "95.13%",
-    "uptimeMonth": "95.75%",
-    "uptimeYear": "98.61%",
-    "time": 977,
-    "timeDay": 885,
-    "timeWeek": 921,
-    "timeMonth": 919,
-    "timeYear": 1007,
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "95.83%",
+    "uptimeMonth": "95.77%",
+    "uptimeYear": "98.60%",
+    "time": 978,
+    "timeDay": 918,
+    "timeWeek": 915,
+    "timeMonth": 923,
+    "timeYear": 1008,
     "dailyMinutesDown": {
-      "2026-01-25": 12,
       "2026-01-24": 93,
       "2026-01-23": 227,
       "2026-01-20": 43,
@@ -83,7 +82,8 @@
       "2025-10-18": 295,
       "2025-10-17": 26,
       "2025-10-16": 54,
-      "2025-10-13": 91
+      "2025-10-13": 91,
+      "2025-10-12": 58
     }
   }
 ]
