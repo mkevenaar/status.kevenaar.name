@@ -4,18 +4,19 @@
     "url": "https://kevenaar.name",
     "icon": "https://icons.duckduckgo.com/ip3/kevenaar.name.ico",
     "slug": "maurice-kevenaar-s-techblog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.71%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.65%",
-    "uptimeYear": "98.67%",
-    "time": 996,
-    "timeDay": 1568,
-    "timeWeek": 1297,
-    "timeMonth": 1172,
+    "uptimeYear": "98.68%",
+    "time": 995,
+    "timeDay": 1122,
+    "timeWeek": 1219,
+    "timeMonth": 1160,
     "timeYear": 1024,
     "dailyMinutesDown": {
+      "2026-03-03": 0,
       "2026-02-23": 20,
       "2026-02-20": 44,
       "2026-02-19": 18,
@@ -85,8 +86,7 @@
       "2025-10-24": 366,
       "2025-10-23": 101,
       "2025-10-22": 95,
-      "2025-10-20": 90,
-      "2025-10-19": 18
+      "2025-10-20": 53
     }
   }
 ]
